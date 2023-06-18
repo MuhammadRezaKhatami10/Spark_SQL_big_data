@@ -7,7 +7,7 @@ NIM : 2041720076
 
 PRAKTIKUM
 ##
-1. Analitik dengan DataFrames\\
+1. Analitik dengan DataFrames//
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/dc09b8fd-00df-4912-ae5b-ba4b53805ff1)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/72eca03a-7671-4eec-8586-ba04cac7a636)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/cd84d3a0-dd28-498e-9d85-161474c937e4)
