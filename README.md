@@ -7,39 +7,48 @@ NIM : 2041720076
 
 PRAKTIKUM
 ##
-1. Analitik dengan DataFrames//
+1. Analitik dengan DataFrames
+   
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/dc09b8fd-00df-4912-ae5b-ba4b53805ff1)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/72eca03a-7671-4eec-8586-ba04cac7a636)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/cd84d3a0-dd28-498e-9d85-161474c937e4)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/68a5a105-5c60-4713-892b-0b37acbeba1f)
    
 2. Membuat DataFrame dari Database Eksternal
+   
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/4fa31e08-6d93-4b88-812e-13f073ce4b61)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/d8dbdaf2-9155-4721-9b16-8ac087fc12fb)
 
 3. Mengonversi DataFrames ke RDDs
+   
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/b22dbefa-0378-4b49-bd58-e13c0a6fe643)
 
 4. Membuat Datasets
+   
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/278cef15-401f-49ec-ae05-f8b78865c9bf)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/806cb868-fadd-4914-bef2-c8efc7872ce7)
 
 5. Mengonversi DataFrame ke Datasets dan sebaliknya
+    
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/9dd647ed-634b-46e5-9ad2-f87e4aca9c44)
 
 6. Mengakses Metadata menggunakan Catalog
+    
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/4c950dda-8f80-487e-8631-b1d298f87dfc)
    ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/88b74f93-6066-4ed3-9567-1c225c7b818a)
    
 7. Bekerja dengan berkas teks
+    
     ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/962f39eb-b876-4f7d-a929-6103cd391d7e)
     ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/6730a937-2642-46a4-be45-6ce845451a7d)
 
 8. Bekerja dengan JSON
+    
     ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/4adc2e96-ca8e-498c-a276-d16b4fdda735)
     ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/c4533286-013e-4aaf-8489-6895e1458807)
 
 9. Bekerja dengan CSV
+    
     ![image](https://github.com/MuhammadRezaKhatami10/Spark_SQL_big_data/assets/90266254/c976f5b4-43ea-4401-a234-838de1a1e903)
  
 ##
